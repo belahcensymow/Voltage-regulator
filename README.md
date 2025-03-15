@@ -1,2 +1,2 @@
 # Voltage-regulator
-Regulating voltage with a multi-coefficient transformer an arduino
+Regulating voltage with a multi-coefficient transformer and an arduino
